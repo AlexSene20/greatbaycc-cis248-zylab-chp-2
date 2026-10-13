@@ -1,5 +1,4 @@
 # CIS248 zyLAB Chapter 2 - Classes and Methods in Depth
-## Spring 2026 #
 
 - Name:
 - Date:
