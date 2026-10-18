@@ -1,6 +1,6 @@
 # CIS248 zyLAB Chapter 2 - Classes and Methods in Depth
-- Name:
-- Date:
+- Name: Alex Senesombath
+- Date: 10/17/2026
 
 
 - zyLAB Challenges to be completed:
